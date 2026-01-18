@@ -31,9 +31,6 @@ An interactive Power BI dashboard designed to analyze air quality patterns acros
 - Data Visualization
 - Geospatial & Time-Series Analysis
 
-## Dashboard Preview
-(Add screenshots below)
-
 ## Use Case
 This dashboard supports analysis of air quality trends, identification of pollution hotspots, and insight-driven understanding of environmental conditions.
 
